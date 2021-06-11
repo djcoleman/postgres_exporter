@@ -98,7 +98,6 @@ var platforms []Platform = []Platform{
 	{"linux", "amd64", ""},
 	{"linux", "386", ""},
 	{"darwin", "amd64", ""},
-	{"darwin", "386", ""},
 	{"windows", "amd64", ".exe"},
 	{"windows", "386", ".exe"},
 	{"freebsd", "amd64", ""},
